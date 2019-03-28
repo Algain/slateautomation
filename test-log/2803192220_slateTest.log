@@ -1,0 +1,22 @@
+Mar 28, 2019 10:20:48 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Log File
+Mar 28, 2019 10:20:48 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Date :2803192220
+Mar 28, 2019 10:20:52 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Welcome Text :Create an account to save your tasks and access them anywhere. It's free. Forever.
+Mar 28, 2019 10:20:52 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Welcome Text Verified
+Mar 28, 2019 10:20:52 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Button Text :Continue with Google
+Mar 28, 2019 10:20:52 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Button Text Verified
+Mar 28, 2019 10:20:53 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: login by email
+Mar 28, 2019 10:20:59 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Username :miztavallavan@gmail.com
+Mar 28, 2019 10:21:00 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Select option
+Mar 28, 2019 10:21:08 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Password :password1234
+Mar 28, 2019 10:21:09 PM slate.seleniumappium.automation.slate.seleniumappium.automation.AppTest SlateTask
+INFO: Submit
