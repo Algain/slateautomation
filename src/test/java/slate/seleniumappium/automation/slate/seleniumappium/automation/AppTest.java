@@ -40,7 +40,7 @@ public class AppTest extends DriverConfig {
 
 	@SuppressWarnings("unchecked")
 	@Test 
-	public void SlateTask() throws InterruptedException, IOException, AWTException{
+	public void AppAutomation() throws InterruptedException, IOException, AWTException{
 
 		// Date Format
 		DateFormat df = new SimpleDateFormat("ddMMyyHHmm");
@@ -53,7 +53,7 @@ public class AppTest extends DriverConfig {
 
 		try {  
 			// Crate new log File  
-			fh = new FileHandler(log + requiredDate + "_slateTest.log");  
+			fh = new FileHandler(log + requiredDate + "_astroapptest.log");  
 			logger.addHandler(fh);
 			SimpleFormatter formatter = new SimpleFormatter();  
 			fh.setFormatter(formatter);  

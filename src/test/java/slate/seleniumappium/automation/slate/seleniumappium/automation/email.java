@@ -53,9 +53,13 @@ public class email {
 
 		//Update gmail username and password
 		//Provide email to to send email out
-		final String username = "";
-		final String password = "";
-		String emailto = "";
+//		final String username = "";
+//		final String password = "";
+//		String emailto = "";
+		
+		final String username = "chatbot@ringgitplus.com";
+		final String password = "B@baji1328";
+		String emailto = "chatbot@ringgitplus.com";
 
 		Properties props = new Properties();
 		props.put("mail.smtp.starttls.enable", "true");
@@ -82,7 +86,7 @@ public class email {
 
 			//Attachment 1
 			messageBodyPart = new MimeBodyPart();
-			String filename = AppTest.requiredDate + "_slateTest.log";
+			String filename = AppTest.requiredDate + "_astroapptest.log";
 			DataSource source = new FileDataSource(log);
 			messageBodyPart.setDataHandler(new DataHandler(source));
 			messageBodyPart.setFileName(filename);

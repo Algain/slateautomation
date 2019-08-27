@@ -33,7 +33,7 @@ public class DriverConfig {
 	static String screencapture = workingdir + "/screencapture/";
 	
 	//AppDetails
-	static String automationName = "SlateTestAutomation";
+	static String automationName = "AstroAppTestAutomation";
 	static String deviceName = "AndroidTestDeviceV5";
 	static String appPackage = "com.todoist";
 	static String appActivity = "com.todoist.activity.WelcomeActivity";
