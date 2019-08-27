@@ -47,7 +47,7 @@ public class AppTest extends DriverConfig {
 		requiredDate = 	df.format(new Date()).toString();
 		System.out.println(requiredDate);
 
-		//log File
+		// log File
 		Logger logger = Logger.getLogger("MyLog");  
 		FileHandler fh;  
 
